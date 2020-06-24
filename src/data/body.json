@@ -1,0 +1,14 @@
+{
+    "Create": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+    "Register":{
+        "email": "eve.holt@reqres.in",
+        "password": "pistol"
+    },
+    "Update":{
+        "name": "morpheus",
+        "job": "zion resident"
+    }
+}
